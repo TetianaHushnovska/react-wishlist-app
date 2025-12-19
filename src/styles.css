@@ -32,9 +32,13 @@ button{
     cursor: pointer;
 }
 
-body{
+body {
+    min-height: 100vh;
     background-image: url("/public/my-fon.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
     background-size: cover;
+    background-attachment: fixed;
 }
 
 input, 
