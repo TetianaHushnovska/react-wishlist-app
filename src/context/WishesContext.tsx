@@ -34,7 +34,7 @@ interface WishesContextType {
 
 const WishesContext = createContext<WishesContextType | null>(null);
 
-const API_URL = "http://localhost:3001/wishes";
+const API_URL = "https://wishlist-api-m5jb.onrender.com/wishes";
 
 export function WishesProvider({ children }: { children: React.ReactNode }) {
   const [allWishes, setAllWishes] = useState<Wish[]>([]);

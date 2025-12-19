@@ -147,7 +147,7 @@ export default function Dashboard() {
         )}
 
         {/* EMPTY STATE */}
-        {!loading && wishes.length === 0 && (
+        {!loading && !error && wishes.length === 0 && (
           <p className="text-center text-white/60 text-xl my-10">
             Looks like you haven’t added any wishes yet 😇
           </p>
