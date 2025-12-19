@@ -1,0 +1,60 @@
+{
+  "wishes": [
+    {
+      "id": "ce64",
+      "title": "Iphone",
+      "description": "my phone",
+      "price": 1600,
+      "image": "https://cdn.mos.cms.futurecdn.net/thsc777aR3JzwNjR2uqzLh.jpg",
+      "createdAt": "2025-12-18T12:06:46.958Z"
+    },
+    {
+      "id": "be5d",
+      "title": "car!",
+      "description": "renault",
+      "price": 40000,
+      "image": "https://i.obozrevatel.com/news/2024/7/24/2025-renault-duster-31.jpg?size=1944x924",
+      "createdAt": "2025-12-18T12:28:01.198Z"
+    },
+    {
+      "id": "f552",
+      "title": "Laptop",
+      "description": "savDSBFznsbfasbhetagrwfwwrbhgwefqdwqfegrwesdFQEDAVEGVDWGRDVSWRVDSDWGRVDSWGRDSDBDWGVSDSGWDSпролджщдшлгаонврпродлжл.дловріапать.юбюлорполд.жб.дорлпоарпвроплрдо.жло.дрлпораопвраіпролд.ждлрорполюь.блорпрмоитюь.юьдлборпчсрод.жБодрлпоаврірвролжлорпавіво.лж.орпрвпрад.одрорпчаячлд.юлропрпа\nячаспродлждрпаоврапвячапсрмоилтюдь.жбод.рьпчапсрмоилтдь.б.\n\n\n\nждолропанврапчрсомлитд.\nропачсмриолтюдьюлбор",
+      "price": 600,
+      "image": "https://laptopmedia.com/wp-content/uploads/2024/12/5-26.jpg",
+      "createdAt": "2025-12-18T16:23:58.657Z"
+    },
+    {
+      "id": "e0e7",
+      "title": "car",
+      "description": "sdvsdv",
+      "price": 400,
+      "image": "https://static.independent.co.uk/2025/02/18/10/40/Kia-EV6.png",
+      "createdAt": "2025-12-18T18:22:40.588Z"
+    },
+    {
+      "id": "5b50",
+      "title": "car",
+      "description": "dcsdvsd",
+      "price": 2345,
+      "image": "https://media.architecturaldigest.com/photos/66a914f1a958d12e0cc94a8e/16:9/w_2560%2Cc_limit/DSC_5903.jpg",
+      "createdAt": "2025-12-18T18:23:12.936Z"
+    },
+    {
+      "id": "1268",
+      "title": "sdvsdv",
+      "description": "SDvSDSv",
+      "price": 234567,
+      "image": "https://hips.hearstapps.com/hmg-prod/images/01-2025-honda-civic-sedan-sport-touring-hybrid-67e7f55ddd5d9.jpg?crop=1xw:0.9167500834167501xh;center,top",
+      "createdAt": "2025-12-18T18:24:09.422Z"
+    },
+    {
+      "id": "ced5",
+      "title": "wetwe",
+      "description": "ASFdghfjgkhj.k/l",
+      "price": 234567,
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ferrari-e-suv-2-copy-680287cac36b2.jpg?crop=1.00xw:0.838xh;0,0.0673xh",
+      "createdAt": "2025-12-19T10:43:47.873Z"
+    }
+  ]
+}

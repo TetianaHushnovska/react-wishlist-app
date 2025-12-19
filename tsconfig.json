@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "jsx": "react-jsx",
+
+    // Strict mode
+    "strict": true,
+    "skipLibCheck": true,
+
+    // Useful but optional
+    "isolatedModules": true,
+    "forceConsistentCasingInFileNames": true,
+
+    // Other recommended options
+    "noUncheckedIndexedAccess": true,
+    "exactOptionalPropertyTypes": true,
+
+    "sourceMap": true
+  }
+}
