@@ -95,11 +95,11 @@ http://localhost:1234
 
 ### Доступні команди
 
-`npm run dev` запуск фронтенду ␠␠
-`npm run server` запуск JSON Server ␠␠
-`npm run build` збірка застосунку ␠␠
+`npm run dev` запуск фронтенду <br>
+`npm run server` запуск JSON Server <br>
+`npm run build` збірка застосунку <br>
 
 ### Автор
 
-Tetiana Hushnovska ␠␠
+Tetiana Hushnovska <br>
 GitHub: https://github.com/TetianaHushnovska
